@@ -1,8 +1,9 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
+<!-- see doc: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html?from=IJPluginTemplate -->
 <idea-plugin>
     <id>com.github.rolandm.intellijplugin1</id>
-    <name>intellij-plugin1</name>
-    <vendor>rolandm</vendor>
+    <name>Roland's Test Plugin</name>
+    <vendor url="https://github.com/rolandm/intellij-plugin1">rolandm</vendor>
 
     <depends>com.intellij.modules.platform</depends>
 
